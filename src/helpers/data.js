@@ -56,7 +56,7 @@ export const data = [
     title: "Çavdar",
     date:"10 şubat 2019 tarihinde arşivlendi",
     desc:
-      "Balance, harmony, and justice define Libra energy. As a cardinal air sign, Libra is represented by the scales (interestingly, the only inanimate object of the zodiac), an association that reflects Libra's fixation on establishing equilibrium. Libra is obsessed with symmetry and strives to create equilibrium in all areas of life — especially when it comes to matters of the heart.",
+      "Genellikle 1-2 metre yüksekliğe ulaşan çavdarın görünümü arpaya çok benzer. Taneleri buğdaya göre daha ince uzun, kavuzları daha dar, kılçıkları da oldukça kısadır. Daha çok ekmeklik un ve hayvan yemi olarak değerlendirilen çavdarın bileşiminde karbonhidrat, protein, potasyum ve B vitamini bulunur.",
     image:
       "https://www.eskitadinda.com/img/saglikli_yasam/6/cavdar-ezmesi-nasil-tuketilir-ve-faydalari-nelerdir_296_2.jpg",
   },
